@@ -1,0 +1,110 @@
+{
+  "uid" : "c79594060d143ec6",
+  "name" : "checkResponseBody",
+  "fullName" : "com.testcase.GetAllEmployees.checkResponseBody",
+  "historyId" : "6406beddf88b3729b1a49613d7e70b92",
+  "time" : {
+    "start" : 1590701662711,
+    "stop" : 1590701662717,
+    "duration" : 6
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "setup",
+    "time" : {
+      "start" : 1590701661993,
+      "stop" : 1590701661995,
+      "duration" : 2
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "hasContent" : false,
+    "stepsCount" : 0
+  }, {
+    "name" : "getaallemployees",
+    "time" : {
+      "start" : 1590701661995,
+      "stop" : 1590701662691,
+      "duration" : 696
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "com.testcase.GetAllEmployees"
+  }, {
+    "name" : "testClass",
+    "value" : "com.testcase.GetAllEmployees"
+  }, {
+    "name" : "testMethod",
+    "value" : "checkResponseBody"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Suite"
+  }, {
+    "name" : "suite",
+    "value" : "Test"
+  }, {
+    "name" : "subSuite",
+    "value" : "com.testcase.GetAllEmployees"
+  }, {
+    "name" : "host",
+    "value" : "Abi"
+  }, {
+    "name" : "thread",
+    "value" : "8940@Abi.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "3b00405b2e081ab8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1590701021758,
+        "stop" : 1590701021762,
+        "duration" : 4
+      }
+    }, {
+      "uid" : "8fca4040eef16b53",
+      "status" : "passed",
+      "time" : {
+        "start" : 1590630124709,
+        "stop" : 1590630124716,
+        "duration" : 7
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c79594060d143ec6.json",
+  "parameterValues" : [ ]
+}

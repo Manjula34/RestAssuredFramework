@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="45" passed="44" failed="1" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-05-28T21:34:17Z" name="Suite" finished-at="2020-05-28T21:34:24Z" duration-ms="6640">
+    <groups>
+    </groups>
+    <test started-at="2020-05-28T21:34:17Z" name="Test" finished-at="2020-05-28T21:34:24Z" duration-ms="6640">
+      <class name="com.testcase.GetAllEmployees">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.testcase.GetAllEmployees@6d026701]" started-at="2020-05-28T14:34:21Z" name="setup" finished-at="2020-05-28T14:34:21Z" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="getaallemployees()[pri:0, instance:com.testcase.GetAllEmployees@6d026701]" started-at="2020-05-28T14:34:21Z" name="getaallemployees" finished-at="2020-05-28T14:34:22Z" duration-ms="696" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getaallemployees -->
+        <test-method signature="checkContentEncoding()[pri:0, instance:com.testcase.GetAllEmployees@6d026701]" started-at="2020-05-28T14:34:22Z" name="checkContentEncoding" finished-at="2020-05-28T14:34:22Z" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkContentEncoding -->
+        <test-method signature="checkContenttype()[pri:0, instance:com.testcase.GetAllEmployees@6d026701]" started-at="2020-05-28T14:34:22Z" name="checkContenttype" finished-at="2020-05-28T14:34:22Z" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkContenttype -->
+        <test-method signature="checkResponseBody()[pri:0, instance:com.testcase.GetAllEmployees@6d026701]" started-at="2020-05-28T14:34:22Z" name="checkResponseBody" finished-at="2020-05-28T14:34:22Z" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkResponseBody -->
+        <test-method signature="checkResponsetime()[pri:0, instance:com.testcase.GetAllEmployees@6d026701]" started-at="2020-05-28T14:34:22Z" name="checkResponsetime" finished-at="2020-05-28T14:34:22Z" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkResponsetime -->
+        <test-method signature="checkServertype()[pri:0, instance:com.testcase.GetAllEmployees@6d026701]" started-at="2020-05-28T14:34:22Z" name="checkServertype" finished-at="2020-05-28T14:34:22Z" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkServertype -->
+        <test-method signature="checkStatuscode()[pri:0, instance:com.testcase.GetAllEmployees@6d026701]" started-at="2020-05-28T14:34:22Z" name="checkStatuscode" finished-at="2020-05-28T14:34:22Z" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkStatuscode -->
+        <test-method signature="checkStatusline()[pri:0, instance:com.testcase.GetAllEmployees@6d026701]" started-at="2020-05-28T14:34:22Z" name="checkStatusline" finished-at="2020-05-28T14:34:22Z" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkStatusline -->
+        <test-method signature="checkcookies()[pri:0, instance:com.testcase.GetAllEmployees@6d026701]" started-at="2020-05-28T14:34:22Z" name="checkcookies" finished-at="2020-05-28T14:34:22Z" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkcookies -->
+        <test-method signature="getallheaders()[pri:0, instance:com.testcase.GetAllEmployees@6d026701]" started-at="2020-05-28T14:34:22Z" name="getallheaders" finished-at="2020-05-28T14:34:22Z" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getallheaders -->
+      </class> <!-- com.testcase.GetAllEmployees -->
+      <class name="com.testcase.DeleteRecord">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.testcase.DeleteRecord@30c8681]" started-at="2020-05-28T14:34:17Z" name="setup" finished-at="2020-05-28T14:34:17Z" duration-ms="107" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="PutEmployee()[pri:0, instance:com.testcase.DeleteRecord@30c8681]" started-at="2020-05-28T14:34:17Z" name="PutEmployee" finished-at="2020-05-28T14:34:20Z" duration-ms="3098" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PutEmployee -->
+        <test-method signature="checkContentEncoding()[pri:0, instance:com.testcase.DeleteRecord@30c8681]" started-at="2020-05-28T14:34:20Z" name="checkContentEncoding" finished-at="2020-05-28T14:34:20Z" duration-ms="85" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkContentEncoding -->
+        <test-method signature="checkContenttype()[pri:0, instance:com.testcase.DeleteRecord@30c8681]" started-at="2020-05-28T14:34:20Z" name="checkContenttype" finished-at="2020-05-28T14:34:20Z" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkContenttype -->
+        <test-method signature="checkResponseBody()[pri:0, instance:com.testcase.DeleteRecord@30c8681]" started-at="2020-05-28T14:34:20Z" name="checkResponseBody" finished-at="2020-05-28T14:34:20Z" duration-ms="84" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkResponseBody -->
+        <test-method signature="checkResponsetime()[pri:0, instance:com.testcase.DeleteRecord@30c8681]" started-at="2020-05-28T14:34:20Z" name="checkResponsetime" finished-at="2020-05-28T14:34:21Z" duration-ms="13" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkResponsetime -->
+        <test-method signature="checkServertype()[pri:0, instance:com.testcase.DeleteRecord@30c8681]" started-at="2020-05-28T14:34:21Z" name="checkServertype" finished-at="2020-05-28T14:34:21Z" duration-ms="35" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkServertype -->
+        <test-method signature="checkStatuscode()[pri:0, instance:com.testcase.DeleteRecord@30c8681]" started-at="2020-05-28T14:34:21Z" name="checkStatuscode" finished-at="2020-05-28T14:34:21Z" duration-ms="13" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkStatuscode -->
+        <test-method signature="checkStatusline()[pri:0, instance:com.testcase.DeleteRecord@30c8681]" started-at="2020-05-28T14:34:21Z" name="checkStatusline" finished-at="2020-05-28T14:34:21Z" duration-ms="58" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkStatusline -->
+        <test-method signature="checkcookies()[pri:0, instance:com.testcase.DeleteRecord@30c8681]" started-at="2020-05-28T14:34:21Z" name="checkcookies" finished-at="2020-05-28T14:34:21Z" duration-ms="10" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkcookies -->
+        <test-method signature="getallheaders()[pri:0, instance:com.testcase.DeleteRecord@30c8681]" started-at="2020-05-28T14:34:21Z" name="getallheaders" finished-at="2020-05-28T14:34:21Z" duration-ms="11" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getallheaders -->
+      </class> <!-- com.testcase.DeleteRecord -->
+      <class name="com.testcase.GetSingleemployeeRecord">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.testcase.GetSingleemployeeRecord@1f75a668]" started-at="2020-05-28T14:34:23Z" name="setup" finished-at="2020-05-28T14:34:23Z" duration-ms="11" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="GetSingleemployee()[pri:0, instance:com.testcase.GetSingleemployeeRecord@1f75a668]" started-at="2020-05-28T14:34:23Z" name="GetSingleemployee" finished-at="2020-05-28T14:34:23Z" duration-ms="357" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetSingleemployee -->
+        <test-method signature="checkContentEncoding()[pri:0, instance:com.testcase.GetSingleemployeeRecord@1f75a668]" started-at="2020-05-28T14:34:23Z" name="checkContentEncoding" finished-at="2020-05-28T14:34:23Z" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkContentEncoding -->
+        <test-method signature="checkContenttype()[pri:0, instance:com.testcase.GetSingleemployeeRecord@1f75a668]" started-at="2020-05-28T14:34:23Z" name="checkContenttype" finished-at="2020-05-28T14:34:23Z" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkContenttype -->
+        <test-method signature="checkResponseBody()[pri:0, instance:com.testcase.GetSingleemployeeRecord@1f75a668]" started-at="2020-05-28T14:34:23Z" name="checkResponseBody" finished-at="2020-05-28T14:34:23Z" duration-ms="10" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkResponseBody -->
+        <test-method signature="checkResponsetime()[pri:0, instance:com.testcase.GetSingleemployeeRecord@1f75a668]" started-at="2020-05-28T14:34:23Z" name="checkResponsetime" finished-at="2020-05-28T14:34:23Z" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkResponsetime -->
+        <test-method signature="checkServertype()[pri:0, instance:com.testcase.GetSingleemployeeRecord@1f75a668]" started-at="2020-05-28T14:34:23Z" name="checkServertype" finished-at="2020-05-28T14:34:23Z" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkServertype -->
+        <test-method signature="checkStatuscode()[pri:0, instance:com.testcase.GetSingleemployeeRecord@1f75a668]" started-at="2020-05-28T14:34:24Z" name="checkStatuscode" finished-at="2020-05-28T14:34:24Z" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkStatuscode -->
+        <test-method signature="checkStatusline()[pri:0, instance:com.testcase.GetSingleemployeeRecord@1f75a668]" started-at="2020-05-28T14:34:24Z" name="checkStatusline" finished-at="2020-05-28T14:34:24Z" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkStatusline -->
+        <test-method signature="checkcookies()[pri:0, instance:com.testcase.GetSingleemployeeRecord@1f75a668]" started-at="2020-05-28T14:34:24Z" name="checkcookies" finished-at="2020-05-28T14:34:24Z" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkcookies -->
+        <test-method signature="getallheaders()[pri:0, instance:com.testcase.GetSingleemployeeRecord@1f75a668]" started-at="2020-05-28T14:34:24Z" name="getallheaders" finished-at="2020-05-28T14:34:24Z" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getallheaders -->
+      </class> <!-- com.testcase.GetSingleemployeeRecord -->
+      <class name="com.testcase.PostEmployeerecord">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.testcase.PostEmployeerecord@78aa1f72]" started-at="2020-05-28T14:34:22Z" name="setup" finished-at="2020-05-28T14:34:22Z" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="GetSingleemployee()[pri:0, instance:com.testcase.PostEmployeerecord@78aa1f72]" started-at="2020-05-28T14:34:22Z" name="GetSingleemployee" finished-at="2020-05-28T14:34:23Z" duration-ms="662" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetSingleemployee -->
+        <test-method signature="checkContentEncoding()[pri:0, instance:com.testcase.PostEmployeerecord@78aa1f72]" started-at="2020-05-28T14:34:23Z" name="checkContentEncoding" finished-at="2020-05-28T14:34:23Z" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkContentEncoding -->
+        <test-method signature="checkContenttype()[pri:0, instance:com.testcase.PostEmployeerecord@78aa1f72]" started-at="2020-05-28T14:34:23Z" name="checkContenttype" finished-at="2020-05-28T14:34:23Z" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkContenttype -->
+        <test-method signature="checkResponseBody()[pri:0, instance:com.testcase.PostEmployeerecord@78aa1f72]" started-at="2020-05-28T14:34:23Z" name="checkResponseBody" finished-at="2020-05-28T14:34:23Z" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkResponseBody -->
+        <test-method signature="checkResponsetime()[pri:0, instance:com.testcase.PostEmployeerecord@78aa1f72]" started-at="2020-05-28T14:34:23Z" name="checkResponsetime" finished-at="2020-05-28T14:34:23Z" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkResponsetime -->
+        <test-method signature="checkServertype()[pri:0, instance:com.testcase.PostEmployeerecord@78aa1f72]" started-at="2020-05-28T14:34:23Z" name="checkServertype" finished-at="2020-05-28T14:34:23Z" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkServertype -->
+        <test-method signature="checkStatuscode()[pri:0, instance:com.testcase.PostEmployeerecord@78aa1f72]" started-at="2020-05-28T14:34:23Z" name="checkStatuscode" finished-at="2020-05-28T14:34:23Z" duration-ms="7" status="FAIL">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [201] but found [200]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [201] but found [200]
+	at org.testng.Assert.fail(Assert.java:93)
+	at org.testng.Assert.failNotEquals(Assert.java:512)
+	at org.testng.Assert.assertEqualsImpl(Assert.java:134)
+	at org.testng.Assert.assertEquals(Assert.java:115)
+	at org.testng.Assert.assertEquals(Assert.java:388)
+	at org.testng.Assert.assertEquals(Assert.java:398)
+	at com.testcase.PostEmployeerecord.checkStatuscode(PostEmployeerecord.java:54)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:108)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:661)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:869)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1193)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:126)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at org.testng.TestRunner.privateRun(TestRunner.java:744)
+	at org.testng.TestRunner.run(TestRunner.java:602)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:380)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:375)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:340)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:289)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1301)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1226)
+	at org.testng.TestNG.runSuites(TestNG.java:1144)
+	at org.testng.TestNG.run(TestNG.java:1115)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkStatuscode -->
+        <test-method signature="checkStatusline()[pri:0, instance:com.testcase.PostEmployeerecord@78aa1f72]" started-at="2020-05-28T14:34:23Z" name="checkStatusline" finished-at="2020-05-28T14:34:23Z" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkStatusline -->
+        <test-method signature="checkcookies()[pri:0, instance:com.testcase.PostEmployeerecord@78aa1f72]" started-at="2020-05-28T14:34:23Z" name="checkcookies" finished-at="2020-05-28T14:34:23Z" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkcookies -->
+        <test-method signature="getallheaders()[pri:0, instance:com.testcase.PostEmployeerecord@78aa1f72]" started-at="2020-05-28T14:34:23Z" name="getallheaders" finished-at="2020-05-28T14:34:23Z" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getallheaders -->
+      </class> <!-- com.testcase.PostEmployeerecord -->
+      <class name="com.testcase.PutEmployeeRecord">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.testcase.PutEmployeeRecord@5cdec700]" started-at="2020-05-28T14:34:21Z" name="setup" finished-at="2020-05-28T14:34:21Z" duration-ms="10" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="PutEmployee()[pri:0, instance:com.testcase.PutEmployeeRecord@5cdec700]" started-at="2020-05-28T14:34:21Z" name="PutEmployee" finished-at="2020-05-28T14:34:21Z" duration-ms="652" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PutEmployee -->
+        <test-method signature="checkContentEncoding()[pri:0, instance:com.testcase.PutEmployeeRecord@5cdec700]" started-at="2020-05-28T14:34:21Z" name="checkContentEncoding" finished-at="2020-05-28T14:34:21Z" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkContentEncoding -->
+        <test-method signature="checkContenttype()[pri:0, instance:com.testcase.PutEmployeeRecord@5cdec700]" started-at="2020-05-28T14:34:21Z" name="checkContenttype" finished-at="2020-05-28T14:34:21Z" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkContenttype -->
+        <test-method signature="checkResponseBody()[pri:0, instance:com.testcase.PutEmployeeRecord@5cdec700]" started-at="2020-05-28T14:34:21Z" name="checkResponseBody" finished-at="2020-05-28T14:34:21Z" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkResponseBody -->
+        <test-method signature="checkResponsetime()[pri:0, instance:com.testcase.PutEmployeeRecord@5cdec700]" started-at="2020-05-28T14:34:21Z" name="checkResponsetime" finished-at="2020-05-28T14:34:21Z" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkResponsetime -->
+        <test-method signature="checkServertype()[pri:0, instance:com.testcase.PutEmployeeRecord@5cdec700]" started-at="2020-05-28T14:34:21Z" name="checkServertype" finished-at="2020-05-28T14:34:21Z" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkServertype -->
+        <test-method signature="checkStatuscode()[pri:0, instance:com.testcase.PutEmployeeRecord@5cdec700]" started-at="2020-05-28T14:34:21Z" name="checkStatuscode" finished-at="2020-05-28T14:34:21Z" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkStatuscode -->
+        <test-method signature="checkStatusline()[pri:0, instance:com.testcase.PutEmployeeRecord@5cdec700]" started-at="2020-05-28T14:34:21Z" name="checkStatusline" finished-at="2020-05-28T14:34:21Z" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkStatusline -->
+        <test-method signature="checkcookies()[pri:0, instance:com.testcase.PutEmployeeRecord@5cdec700]" started-at="2020-05-28T14:34:21Z" name="checkcookies" finished-at="2020-05-28T14:34:21Z" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkcookies -->
+        <test-method signature="getallheaders()[pri:0, instance:com.testcase.PutEmployeeRecord@5cdec700]" started-at="2020-05-28T14:34:21Z" name="getallheaders" finished-at="2020-05-28T14:34:21Z" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getallheaders -->
+      </class> <!-- com.testcase.PutEmployeeRecord -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

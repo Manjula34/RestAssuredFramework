@@ -1,0 +1,92 @@
+{
+  "uid" : "fe982b5b0dd44406",
+  "name" : "checkResponseBody",
+  "fullName" : "com.testcase.PutEmployeeRecord.checkResponseBody",
+  "historyId" : "ccaff1a3fd3e9ecceeda256a011fc545",
+  "time" : {
+    "start" : 1590630123391,
+    "stop" : 1590630123399,
+    "duration" : 8
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "setup",
+    "time" : {
+      "start" : 1590630122556,
+      "stop" : 1590630122558,
+      "duration" : 2
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "hasContent" : false,
+    "stepsCount" : 0
+  }, {
+    "name" : "PutEmployee",
+    "time" : {
+      "start" : 1590630122558,
+      "stop" : 1590630123367,
+      "duration" : 809
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "com.testcase.PutEmployeeRecord"
+  }, {
+    "name" : "testClass",
+    "value" : "com.testcase.PutEmployeeRecord"
+  }, {
+    "name" : "testMethod",
+    "value" : "checkResponseBody"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Suite"
+  }, {
+    "name" : "suite",
+    "value" : "Test"
+  }, {
+    "name" : "subSuite",
+    "value" : "com.testcase.PutEmployeeRecord"
+  }, {
+    "name" : "host",
+    "value" : "Abi"
+  }, {
+    "name" : "thread",
+    "value" : "4044@Abi.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "fe982b5b0dd44406.json",
+  "parameterValues" : [ ]
+}

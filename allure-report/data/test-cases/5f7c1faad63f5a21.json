@@ -1,0 +1,92 @@
+{
+  "uid" : "5f7c1faad63f5a21",
+  "name" : "checkContenttype",
+  "fullName" : "com.testcase.PutEmployeeRecord.checkContenttype",
+  "historyId" : "4cb14da90ec88b950d385a7b04287d",
+  "time" : {
+    "start" : 1590701020995,
+    "stop" : 1590701020997,
+    "duration" : 2
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "setup",
+    "time" : {
+      "start" : 1590701020336,
+      "stop" : 1590701020341,
+      "duration" : 5
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "hasContent" : false,
+    "stepsCount" : 0
+  }, {
+    "name" : "PutEmployee",
+    "time" : {
+      "start" : 1590701020341,
+      "stop" : 1590701020983,
+      "duration" : 642
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "com.testcase.PutEmployeeRecord"
+  }, {
+    "name" : "testClass",
+    "value" : "com.testcase.PutEmployeeRecord"
+  }, {
+    "name" : "testMethod",
+    "value" : "checkContenttype"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Suite"
+  }, {
+    "name" : "suite",
+    "value" : "Test"
+  }, {
+    "name" : "subSuite",
+    "value" : "com.testcase.PutEmployeeRecord"
+  }, {
+    "name" : "host",
+    "value" : "Abi"
+  }, {
+    "name" : "thread",
+    "value" : "9896@Abi.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5f7c1faad63f5a21.json",
+  "parameterValues" : [ ]
+}

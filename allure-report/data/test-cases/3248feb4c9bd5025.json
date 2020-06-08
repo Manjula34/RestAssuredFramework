@@ -1,0 +1,110 @@
+{
+  "uid" : "3248feb4c9bd5025",
+  "name" : "checkStatuscode",
+  "fullName" : "com.testcase.GetSingleemployeeRecord.checkStatuscode",
+  "historyId" : "13a8e1ea5eea40cc7bebe57c36652585",
+  "time" : {
+    "start" : 1590701664003,
+    "stop" : 1590701664004,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "setup",
+    "time" : {
+      "start" : 1590701663569,
+      "stop" : 1590701663580,
+      "duration" : 11
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "hasContent" : false,
+    "stepsCount" : 0
+  }, {
+    "name" : "GetSingleemployee",
+    "time" : {
+      "start" : 1590701663581,
+      "stop" : 1590701663937,
+      "duration" : 356
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "com.testcase.GetSingleemployeeRecord"
+  }, {
+    "name" : "testClass",
+    "value" : "com.testcase.GetSingleemployeeRecord"
+  }, {
+    "name" : "testMethod",
+    "value" : "checkStatuscode"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Suite"
+  }, {
+    "name" : "suite",
+    "value" : "Test"
+  }, {
+    "name" : "subSuite",
+    "value" : "com.testcase.GetSingleemployeeRecord"
+  }, {
+    "name" : "host",
+    "value" : "Abi"
+  }, {
+    "name" : "thread",
+    "value" : "8940@Abi.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "57462a1bea2c7e45",
+      "status" : "passed",
+      "time" : {
+        "start" : 1590701022930,
+        "stop" : 1590701022931,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "1a5c38f91f2865e1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1590630125908,
+        "stop" : 1590630125909,
+        "duration" : 1
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3248feb4c9bd5025.json",
+  "parameterValues" : [ ]
+}

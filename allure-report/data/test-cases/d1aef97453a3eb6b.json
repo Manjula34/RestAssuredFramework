@@ -1,0 +1,92 @@
+{
+  "uid" : "d1aef97453a3eb6b",
+  "name" : "checkContenttype",
+  "fullName" : "com.testcase.DeleteRecord.checkContenttype",
+  "historyId" : "8872f10df35ef619ae4ff40779364519",
+  "time" : {
+    "start" : 1590630122348,
+    "stop" : 1590630122352,
+    "duration" : 4
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "setup",
+    "time" : {
+      "start" : 1590630117383,
+      "stop" : 1590630117559,
+      "duration" : 176
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "hasContent" : false,
+    "stepsCount" : 0
+  }, {
+    "name" : "PutEmployee",
+    "time" : {
+      "start" : 1590630117560,
+      "stop" : 1590630121923,
+      "duration" : 4363
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "com.testcase.DeleteRecord"
+  }, {
+    "name" : "testClass",
+    "value" : "com.testcase.DeleteRecord"
+  }, {
+    "name" : "testMethod",
+    "value" : "checkContenttype"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Suite"
+  }, {
+    "name" : "suite",
+    "value" : "Test"
+  }, {
+    "name" : "subSuite",
+    "value" : "com.testcase.DeleteRecord"
+  }, {
+    "name" : "host",
+    "value" : "Abi"
+  }, {
+    "name" : "thread",
+    "value" : "4044@Abi.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d1aef97453a3eb6b.json",
+  "parameterValues" : [ ]
+}

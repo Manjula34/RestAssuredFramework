@@ -1,0 +1,451 @@
+[ {
+  "uid" : "b7cf5c9ad23506da",
+  "name" : "checkResponsetime",
+  "time" : {
+    "start" : 1590701661929,
+    "stop" : 1590701661931,
+    "duration" : 2
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c79594060d143ec6",
+  "name" : "checkResponseBody",
+  "time" : {
+    "start" : 1590701662711,
+    "stop" : 1590701662717,
+    "duration" : 6
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "61a1fda3f6085b95",
+  "name" : "checkContentEncoding",
+  "time" : {
+    "start" : 1590701661908,
+    "stop" : 1590701661909,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "24ea046de7172fa3",
+  "name" : "checkContentEncoding",
+  "time" : {
+    "start" : 1590701663439,
+    "stop" : 1590701663453,
+    "duration" : 14
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f94657c07c9accee",
+  "name" : "checkStatuscode",
+  "time" : {
+    "start" : 1590701663531,
+    "stop" : 1590701663540,
+    "duration" : 9
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "3248feb4c9bd5025",
+  "name" : "checkStatuscode",
+  "time" : {
+    "start" : 1590701664003,
+    "stop" : 1590701664004,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "36b157959f7133c",
+  "name" : "getallheaders",
+  "time" : {
+    "start" : 1590701662756,
+    "stop" : 1590701662762,
+    "duration" : 6
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1b1e265baac8d97c",
+  "name" : "checkResponsetime",
+  "time" : {
+    "start" : 1590701663514,
+    "stop" : 1590701663517,
+    "duration" : 3
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e6491b5f3261c638",
+  "name" : "checkcookies",
+  "time" : {
+    "start" : 1590701661209,
+    "stop" : 1590701661213,
+    "duration" : 4
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c53e115402c28d75",
+  "name" : "checkStatuscode",
+  "time" : {
+    "start" : 1590701662738,
+    "stop" : 1590701662739,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "aecd4d3eff56f7b6",
+  "name" : "getallheaders",
+  "time" : {
+    "start" : 1590701661981,
+    "stop" : 1590701661987,
+    "duration" : 6
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2bc0ece07412555",
+  "name" : "checkContentEncoding",
+  "time" : {
+    "start" : 1590701662696,
+    "stop" : 1590701662700,
+    "duration" : 4
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1c00fa0361f760cb",
+  "name" : "checkStatusline",
+  "time" : {
+    "start" : 1590701662743,
+    "stop" : 1590701662744,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1b67d5e539f59617",
+  "name" : "checkContenttype",
+  "time" : {
+    "start" : 1590701661914,
+    "stop" : 1590701661916,
+    "duration" : 2
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "acb13f55047221b",
+  "name" : "checkContenttype",
+  "time" : {
+    "start" : 1590701662705,
+    "stop" : 1590701662707,
+    "duration" : 2
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7de71ae4daf7c786",
+  "name" : "checkResponsetime",
+  "time" : {
+    "start" : 1590701661000,
+    "stop" : 1590701661012,
+    "duration" : 12
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "386affea5b314eea",
+  "name" : "checkcookies",
+  "time" : {
+    "start" : 1590701661975,
+    "stop" : 1590701661976,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "18c40badb840a15d",
+  "name" : "checkcookies",
+  "time" : {
+    "start" : 1590701663556,
+    "stop" : 1590701663558,
+    "duration" : 2
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "dfcea0222e62bd02",
+  "name" : "checkStatusline",
+  "time" : {
+    "start" : 1590701663548,
+    "stop" : 1590701663549,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b41f0978950f7a9c",
+  "name" : "checkContentEncoding",
+  "time" : {
+    "start" : 1590701660744,
+    "stop" : 1590701660754,
+    "duration" : 10
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "528f5e8d54d23bb5",
+  "name" : "checkServertype",
+  "time" : {
+    "start" : 1590701661938,
+    "stop" : 1590701661944,
+    "duration" : 6
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a63f9c759bd5fb16",
+  "name" : "checkcookies",
+  "time" : {
+    "start" : 1590701664025,
+    "stop" : 1590701664027,
+    "duration" : 2
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a67c73080d5ded5c",
+  "name" : "checkcookies",
+  "time" : {
+    "start" : 1590701662748,
+    "stop" : 1590701662750,
+    "duration" : 2
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "cc2d5f37d6a0e8f",
+  "name" : "checkResponsetime",
+  "time" : {
+    "start" : 1590701663989,
+    "stop" : 1590701663991,
+    "duration" : 2
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "185cf0e670a22ee",
+  "name" : "checkResponseBody",
+  "time" : {
+    "start" : 1590701661921,
+    "stop" : 1590701661924,
+    "duration" : 3
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2ac44399bf9f22c5",
+  "name" : "checkServertype",
+  "time" : {
+    "start" : 1590701663997,
+    "stop" : 1590701663998,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "12367e8c9e857166",
+  "name" : "checkStatuscode",
+  "time" : {
+    "start" : 1590701661078,
+    "stop" : 1590701661103,
+    "duration" : 25
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "962b49c11f94ca33",
+  "name" : "getallheaders",
+  "time" : {
+    "start" : 1590701663564,
+    "stop" : 1590701663566,
+    "duration" : 2
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a5db10f681858b65",
+  "name" : "checkResponsetime",
+  "time" : {
+    "start" : 1590701662722,
+    "stop" : 1590701662726,
+    "duration" : 4
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a8219f01ffd09514",
+  "name" : "getallheaders",
+  "time" : {
+    "start" : 1590701661225,
+    "stop" : 1590701661234,
+    "duration" : 9
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b2e1a34362375ab6",
+  "name" : "checkStatusline",
+  "time" : {
+    "start" : 1590701664008,
+    "stop" : 1590701664010,
+    "duration" : 2
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "fbb1e4af560b190e",
+  "name" : "checkContenttype",
+  "time" : {
+    "start" : 1590701663963,
+    "stop" : 1590701663968,
+    "duration" : 5
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f409e4c6b2c17cf0",
+  "name" : "checkContenttype",
+  "time" : {
+    "start" : 1590701663466,
+    "stop" : 1590701663470,
+    "duration" : 4
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "cbf5f2e141c601e0",
+  "name" : "checkStatuscode",
+  "time" : {
+    "start" : 1590701661950,
+    "stop" : 1590701661952,
+    "duration" : 2
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9d05a1701e82ee7c",
+  "name" : "checkServertype",
+  "time" : {
+    "start" : 1590701662731,
+    "stop" : 1590701662732,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "cc0c2286a414334c",
+  "name" : "checkResponseBody",
+  "time" : {
+    "start" : 1590701660899,
+    "stop" : 1590701660975,
+    "duration" : 76
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c33457052b3cca68",
+  "name" : "checkStatusline",
+  "time" : {
+    "start" : 1590701661178,
+    "stop" : 1590701661197,
+    "duration" : 19
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d6e084fcf0d0a1d1",
+  "name" : "checkResponseBody",
+  "time" : {
+    "start" : 1590701663477,
+    "stop" : 1590701663482,
+    "duration" : 5
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "231829ce9dfb56be",
+  "name" : "checkServertype",
+  "time" : {
+    "start" : 1590701661049,
+    "stop" : 1590701661065,
+    "duration" : 16
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8a54954c0f5fac90",
+  "name" : "checkServertype",
+  "time" : {
+    "start" : 1590701663525,
+    "stop" : 1590701663527,
+    "duration" : 2
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e2509c082b5428f5",
+  "name" : "checkContentEncoding",
+  "time" : {
+    "start" : 1590701663945,
+    "stop" : 1590701663949,
+    "duration" : 4
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "decbd739b1d704a6",
+  "name" : "getallheaders",
+  "time" : {
+    "start" : 1590701664043,
+    "stop" : 1590701664046,
+    "duration" : 3
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6edc3b260edafd53",
+  "name" : "checkContenttype",
+  "time" : {
+    "start" : 1590701660877,
+    "stop" : 1590701660884,
+    "duration" : 7
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6e121989c1340e71",
+  "name" : "checkResponseBody",
+  "time" : {
+    "start" : 1590701663975,
+    "stop" : 1590701663982,
+    "duration" : 7
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "580228fe1287369",
+  "name" : "checkStatusline",
+  "time" : {
+    "start" : 1590701661958,
+    "stop" : 1590701661960,
+    "duration" : 2
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

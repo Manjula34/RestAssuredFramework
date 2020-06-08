@@ -1,0 +1,110 @@
+{
+  "uid" : "12367e8c9e857166",
+  "name" : "checkStatuscode",
+  "fullName" : "com.testcase.DeleteRecord.checkStatuscode",
+  "historyId" : "fc06f9604775f995a4ecdb95d4723ea9",
+  "time" : {
+    "start" : 1590701661078,
+    "stop" : 1590701661103,
+    "duration" : 25
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "setup",
+    "time" : {
+      "start" : 1590701657462,
+      "stop" : 1590701657555,
+      "duration" : 93
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "hasContent" : false,
+    "stepsCount" : 0
+  }, {
+    "name" : "PutEmployee",
+    "time" : {
+      "start" : 1590701657556,
+      "stop" : 1590701660653,
+      "duration" : 3097
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "com.testcase.DeleteRecord"
+  }, {
+    "name" : "testClass",
+    "value" : "com.testcase.DeleteRecord"
+  }, {
+    "name" : "testMethod",
+    "value" : "checkStatuscode"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Suite"
+  }, {
+    "name" : "suite",
+    "value" : "Test"
+  }, {
+    "name" : "subSuite",
+    "value" : "com.testcase.DeleteRecord"
+  }, {
+    "name" : "host",
+    "value" : "Abi"
+  }, {
+    "name" : "thread",
+    "value" : "8940@Abi.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "1b6b497aab54f2c1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1590701020246,
+        "stop" : 1590701020254,
+        "duration" : 8
+      }
+    }, {
+      "uid" : "fbdbd2907a0a3a66",
+      "status" : "passed",
+      "time" : {
+        "start" : 1590630122486,
+        "stop" : 1590630122498,
+        "duration" : 12
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "12367e8c9e857166.json",
+  "parameterValues" : [ ]
+}

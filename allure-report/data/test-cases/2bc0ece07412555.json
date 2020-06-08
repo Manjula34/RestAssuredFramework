@@ -1,0 +1,110 @@
+{
+  "uid" : "2bc0ece07412555",
+  "name" : "checkContentEncoding",
+  "fullName" : "com.testcase.GetAllEmployees.checkContentEncoding",
+  "historyId" : "7566fce15e1398a2abcc139b66767a34",
+  "time" : {
+    "start" : 1590701662696,
+    "stop" : 1590701662700,
+    "duration" : 4
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "setup",
+    "time" : {
+      "start" : 1590701661993,
+      "stop" : 1590701661995,
+      "duration" : 2
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "hasContent" : false,
+    "stepsCount" : 0
+  }, {
+    "name" : "getaallemployees",
+    "time" : {
+      "start" : 1590701661995,
+      "stop" : 1590701662691,
+      "duration" : 696
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "com.testcase.GetAllEmployees"
+  }, {
+    "name" : "testClass",
+    "value" : "com.testcase.GetAllEmployees"
+  }, {
+    "name" : "testMethod",
+    "value" : "checkContentEncoding"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Suite"
+  }, {
+    "name" : "suite",
+    "value" : "Test"
+  }, {
+    "name" : "subSuite",
+    "value" : "com.testcase.GetAllEmployees"
+  }, {
+    "name" : "host",
+    "value" : "Abi"
+  }, {
+    "name" : "thread",
+    "value" : "8940@Abi.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "946bd28e5e27e8b5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1590701021741,
+        "stop" : 1590701021742,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "5b43b0fcffd15019",
+      "status" : "passed",
+      "time" : {
+        "start" : 1590630124689,
+        "stop" : 1590630124690,
+        "duration" : 1
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2bc0ece07412555.json",
+  "parameterValues" : [ ]
+}

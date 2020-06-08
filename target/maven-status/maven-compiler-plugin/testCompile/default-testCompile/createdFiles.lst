@@ -1,0 +1,7 @@
+com\testcase\PutEmployeeRecord.class
+com\testcase\PostEmployeerecord.class
+com\testcase\GetAllEmployees.class
+com\restutils\RestUtils.class
+com\baseclass\TestBase.class
+com\testcase\GetSingleemployeeRecord.class
+com\testcase\DeleteRecord.class
